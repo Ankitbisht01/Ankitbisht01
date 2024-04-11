@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Ankit Bisht
 - 👀 I’m interested in Web deelopment
-- 🌱 I’m currently learning Backend frameworks
+- 🌱 I’m currently learning HTML, CSS, Javascrit, Python, Django for full stack software development.
 - 💞️ I’m looking to collaborate on Open source, cloud engineering, Machine learning and AI
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
