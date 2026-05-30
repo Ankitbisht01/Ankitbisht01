@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Bisht</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
-- 🌱 I’m currently learning **Python, Javascript, Django,**
+- 🌱 I’m currently learning **Databricks, AWS**
 
 - 📫 How to reach me **ankitbisht.0107@gmail.com**
 
